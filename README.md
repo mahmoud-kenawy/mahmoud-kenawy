@@ -98,7 +98,7 @@ I'm a passionate **Data Engineer** focused on designing and building robust, sca
         <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
-      <a href="https://github.com/Mahmoud-keno">→ View Project</a>
+      <a href="https://github.com/Mahmoud-kenawy">→ View Project</a>
     </td>
     <td width="50%" valign="top">
       <h3>💹 Stock API Pipeline</h3>
@@ -109,7 +109,7 @@ I'm a passionate **Data Engineer** focused on designing and building robust, sca
         <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
         <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
       </p>
-      <a href="https://github.com/Mahmoud-keno/stock-api-pipeline">→ View Project</a>
+      <a href="https://github.com/Mahmoud-kenawy/stock-api-pipeline">→ View Project</a>
     </td>
   </tr>
   <tr>
@@ -121,17 +121,7 @@ I'm a passionate **Data Engineer** focused on designing and building robust, sca
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
-      <a href="https://github.com/Mahmoud-keno/DWH-Project">→ View Project</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📈 ETL-GDP Pipeline</h3>
-      <p>Python ETL pipeline to extract GDP data from Wikipedia. Cleaned and structured raw data with <strong>Pandas</strong>. Stored processed data in <strong>CSV & SQLite</strong> for downstream analysis.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-      </p>
-      <a href="https://github.com/Mahmoud-keno/ETL-GDP">→ View Project</a>
+      <a href="https://github.com/Mahmoud-kenawy/DWH-Project">→ View Project</a>
     </td>
   </tr>
 </table>
