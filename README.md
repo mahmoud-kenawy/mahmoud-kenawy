@@ -98,7 +98,7 @@ I'm a passionate **Data Engineer** focused on designing and building robust, sca
         <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
-      <a href="https://github.com/Mahmoud-kenawy">→ View Project</a>
+      <a href="https://github.com/mahmoud-kenawy/DTC-Final-Project/tree/main/USGS-Earthquakes">→ View Project</a>
     </td>
     <td width="50%" valign="top">
       <h3>💹 Stock API Pipeline</h3>
