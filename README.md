@@ -170,14 +170,14 @@ Luxor University · *Expected June 2026* · GPA: **3.37 / 4.0**
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-keno&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-keno&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mahmoud-kenawy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-kenawy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mahmoud-keno&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mahmoud-kenawy&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -187,9 +187,9 @@ Luxor University · *Expected June 2026* · GPA: **3.37 / 4.0**
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahmoud-keno/Mahmoud-keno/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahmoud-keno/Mahmoud-keno/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Mahmoud-keno/Mahmoud-keno/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahmoud-kenawy/mahmoud-kenawy/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahmoud-kenawy/mahmoud-kenawy/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mahmoud-kenawy/mahmoud-kenawy/output/github-snake.svg" />
 </picture>
 </div>
 
@@ -199,6 +199,6 @@ Luxor University · *Expected June 2026* · GPA: **3.37 / 4.0**
 
 ### 💡 *"Data is the new oil — I build the pipelines that refine it."*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Mahmoud-keno&color=00D4FF&style=flat-square&label=Profile+Views)](https://github.com/Mahmoud-keno)
+[![Profile Views](https://komarev.com/ghpvc/?username=mahmoud-kenawy&color=00D4FF&style=flat-square&label=Profile+Views)](https://github.com/mahmoud-kenawy)
 
 </div>
