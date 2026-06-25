@@ -21,7 +21,7 @@
 
 I'm a passionate **Data Engineer** focused on designing and building robust, scalable data pipelines from ingestion to insight. I thrive on turning raw, messy data into clean, analytics-ready datasets using modern cloud-native tools and best engineering practices.
 
-- 🔭 Currently enrolled in **DataTalks.Club DE Zoomcamp** & **Microsoft/DEPI Azure Track**
+- 🔭 Currently enrolled in **DataTalks.Club DE Zoomcamp** & **Microsoft/DEPI Data Engineering Track**
 - 🌱 Building expertise in **Spark**, **Kafka**, **Airflow**, **dbt**, and **cloud platforms**
 - 🏗️ Obsessed with **data modeling**, **pipeline orchestration**, and **infrastructure-as-code**
 - 💬 Ask me about **ETL/ELT pipelines**, **data warehousing**, or **Airflow orchestration**
