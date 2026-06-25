@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-> 🎓 **B.Sc. Computer Science** @ Luxor University *(Expected June 2026)* — GPA: **3.37 / 4.0**
+> 🎓 **B.Sc. Computer Science** @ Luxor University *(Expected June 2026)***
 
 I'm a passionate **Data Engineer** focused on designing and building robust, scalable data pipelines from ingestion to insight. I thrive on turning raw, messy data into clean, analytics-ready datasets using modern cloud-native tools and best engineering practices.
 
